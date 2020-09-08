@@ -1,7 +1,5 @@
-# uniswap-lib
+# sipswap-lib
 
-[![Actions Status](https://github.com/Uniswap/uniswap-lib/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-lib/actions)
-[![npm](https://img.shields.io/npm/v/@uniswap/lib)](https://unpkg.com/@uniswap/lib@latest/)
 
 Solidity libraries that are shared across Uniswap contracts. These libraries are focused on safety and gas efficiency.
 
@@ -20,5 +18,5 @@ Install this in another project via `yarn add @uniswap/lib`
 Then import the contracts via:
 
 ```solidity
-import "@uniswap/lib/contracts/libraries/Babylonian.sol"; 
+import "@sipswap/lib/contracts/libraries/Babylonian.sol"; 
 ```
